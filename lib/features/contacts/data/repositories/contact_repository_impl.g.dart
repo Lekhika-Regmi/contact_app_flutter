@@ -1,7 +1,7 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
 part of 'contact_repository_impl.dart';
-
+//
 // **************************************************************************
 // RiverpodGenerator
 // **************************************************************************
