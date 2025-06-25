@@ -5,7 +5,7 @@ part of 'contact_local_datasource.dart';
 // **************************************************************************
 // RiverpodGenerator
 // **************************************************************************
-//
+
 String _$contactLocalDataSourceHash() =>
     r'9f85709479e5f69afaebf7ecbb033db03ee35784';
 
