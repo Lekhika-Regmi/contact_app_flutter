@@ -5,7 +5,7 @@ part of 'contact_remote_datasource.dart';
 // **************************************************************************
 // RiverpodGenerator
 // **************************************************************************
-
+//
 String _$contactRemoteDataSourceHash() =>
     r'5aeb3c0286e156d92002ea85bdb6c4e3d3f12a69';
 
